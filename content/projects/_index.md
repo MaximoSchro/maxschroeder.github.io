@@ -11,7 +11,7 @@ description: ""
 ![](finUI.png)
 ![](fishshooting.gif)
 ![](logobanner_bg.png)
-![](/img/logobanner_bg.png)
+![](img/logobanner_bg.png)
 ![](logobanner_nobgfix.png)
 ![](schrodingers.png)
 ![](SchrodingersDeliveryService.gif)
