@@ -18,7 +18,7 @@ weight: 10
 
 I worked both as a scrum master and designer on this project. As a scrum master I focused on helping my team learn and use agile as well as lead meetings and presentations.
 
-![Cthuhlu&Me Image](/img/cthulhuandmegrenade.gif)
+![Cthuhlu&Me Image]({{ "img/cthulhuandmegrenade.gif" | relURL }})
 
 As a designer, I worked primarily with enemy and weapon designs. I created and iterated on the rubber duck grenade, which grows bigger with each bounce it takes.
 
