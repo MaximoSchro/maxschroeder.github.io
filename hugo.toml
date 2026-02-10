@@ -8,18 +8,20 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight = 1
 
     [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/contact/"
+    url = "contact/"
     weight = 2
 
 
 [params]
   imgPath = "img"
+
+
 
 
 
