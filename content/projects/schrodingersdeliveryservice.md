@@ -9,7 +9,7 @@ coverGif: "img/SchrodingersDeliveryService.gif"
 hiddenInHomeList: true
 weight: 10
 ---
-
+![Fincremental Image](img/Schrodingers.png)
 ## Overview
 
 In **Schrodinger's Delivery Service**, the player is presented with a box and must shake it to tell if a cat is inside or not. If there is a cat the player must deliver the box by throwing it at the house. If there is no cat, the player must throw the box off to the side to get a new one. Our game had three constraints: The game must contain physics components, the game must have a mechanic based on sound, the game must include a paradox.   

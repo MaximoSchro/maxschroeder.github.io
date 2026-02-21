@@ -3,3 +3,18 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+
+:root {
+  --primary: #111111;     /* Main text color */
+  --content: #222222;     /* Post/content text */
+  --secondary: #555555;   /* Muted text */
+  --project-text: #ebebeb;
+  --project-subtext: #b6b6b6;
+}
+
+
+/* Dark mode */
+.dark {
+  --project-subtext: #d8d8d8;  /* lighter gray for dark background */
+}

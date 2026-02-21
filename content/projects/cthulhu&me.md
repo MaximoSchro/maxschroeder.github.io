@@ -9,7 +9,7 @@ coverGif: "img/cthulhuandmefight.gif"
 hiddenInHomeList: true
 weight: 10
 ---
-
+![](img/cthulhulogo.png)
 ## Overview
 
 **Cthulhu & Me** is a third-person pseudo-roguelike where the player progresses through semi-random levels and unlocks new weapons along the way. 
