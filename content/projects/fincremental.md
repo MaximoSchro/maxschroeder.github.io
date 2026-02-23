@@ -38,6 +38,8 @@ I also needed to make sure the windows were easy to use and understand. Keeping 
 
 One of the systems I am very proud of is the shop, aka Pandora's Box. The shop is the main hub for player progression of various different parts of the game: Fish, Environments, and minigames. Since there was a lot of upgrades that need to be added over time or be changed, I needed to make system where our team could drag and drop upgrades into a list and have them immediately be accessible and playable. 
 
+![](img/ItemDatabase.png)
+
 To do this, our programmers made two scriptable objects: Shop Items and the Shop Database. Our team will input all the data an upgrade needs into the Shop Item and place those items into the Shop Database. On runtime, I take that list and fill the shops with tabs depending on the types of upgrades, a list of buttons in each tab to show all available upgrades, and then a shop area with an upgrade icon, description, and a button that buys the upgrade if the player has the money for it.  
 
 ## Team
