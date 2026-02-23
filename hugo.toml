@@ -1,7 +1,34 @@
-baseURL = 'https://maxschroeder.github.io/'
+baseURL = 'https://maximoschro.github.io/'
 languageCode = 'en-us'
-title = "Max Schroeder's Portfolio"
+title = "Max Schroeder | Game Systems Designer"
 theme = 'PaperMod'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "about/"
+    weight = 1
+
+    [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "contact/"
+    weight = 2
+
+
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
+
+[params]
+  defaultTheme = "dark"
 
 [caches]
   [caches.images]
