@@ -4,7 +4,7 @@ title = "Max Schroeder | Game Systems Designer"
 theme = 'PaperMod'
 
 [goldmark]
-    [goldmark.renderer]
+    [[goldmark.renderer]]
         unsafe = true
 
 [menu]
