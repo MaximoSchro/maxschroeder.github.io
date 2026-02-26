@@ -14,6 +14,8 @@ weight: 10
 
 **Cthulhu & Me** is a third-person pseudo-roguelike where the player progresses through semi-random levels and unlocks new weapons along the way. 
 
+{{< itch "https://itch.io/embed/3496510?dark=true">}}
+
 ## My Work
 
 I worked both as a scrum master and designer on this project. As a scrum master I focused on helping my team learn and use agile as well as lead meetings and presentations.
@@ -23,3 +25,5 @@ I worked both as a scrum master and designer on this project. As a scrum master 
 As a designer, I worked primarily with enemy and weapon designs. I created and iterated on the rubber duck grenade, which grows bigger with each bounce it takes.
 
 ---
+
+
