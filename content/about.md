@@ -8,4 +8,4 @@ I'm a game designer with a focus in Systems. I love making making new interactio
 
 ## Experience
 
-While at Champlain College, I've spent multiple semester making projects with teams of various sizes to make fun and unique games. These include FincrementalOS, a incremental fishing game, Cthulhu and Me, a pseudo-roguelike third-person shooter. 
+While at Champlain College, I've spent multiple semester making projects with teams of various sizes to make fun and unique games. These include FincrementalOS, a incremental fishing game, and Cthulhu and Me, a pseudo-roguelike third-person shooter. 
