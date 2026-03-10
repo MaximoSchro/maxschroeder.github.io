@@ -18,7 +18,7 @@ weight: 1
 
 **Platform:** PC
 
-**Role:** Lead Designer
+**Role:** Lead Designer and Scrum Master
 
 **Engine:** Unity
 
