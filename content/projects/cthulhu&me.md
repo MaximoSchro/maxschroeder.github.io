@@ -16,7 +16,7 @@ weight: 10
 
 {{< itch "https://itch.io/embed/3496510?dark=true">}}
 
-**Platform:** PC
+**Platform:** Windows
 
 **Role:** Tech Designer and Scrum Master
 
