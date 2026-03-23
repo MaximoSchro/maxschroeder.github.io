@@ -16,7 +16,7 @@ In **Schrodinger's Delivery Service**, the player is presented with a box and mu
 
 {{< itch "https://itch.io/embed/3132390?dark=true">}}
 
-**Platform:** PC
+**Platform:** Windows
 
 **Role:** System Designer
 
