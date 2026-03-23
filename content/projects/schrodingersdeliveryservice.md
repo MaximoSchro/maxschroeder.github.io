@@ -12,7 +12,7 @@ weight: 10
 ![Fincremental Image](img/schrodingers.png)
 ## Overview
 
-In **Schrodinger's Delivery Service**, the player is presented with a box and must shake it to tell if a cat is inside or not. If there is a cat the player must deliver the box by throwing it at the house. If there is no cat, the player must throw the box off to the side to get a new one. 
+In **Schrodinger's Delivery Service**, the player is presented with a box and must shake it to determine whether a cat is inside. If there is a cat, the player must deliver the box by throwing it at the house. If there is no cat, the player must throw the box aside to get a new one. 
 
 {{< itch "https://itch.io/embed/3132390?dark=true">}}
 
@@ -28,19 +28,19 @@ In **Schrodinger's Delivery Service**, the player is presented with a box and mu
 
 ### Constraints
 
-Our game had three constraints: The game must contain physics components, the game must have a mechanic based on sound, the game must include a paradox.   
-
-![Schrodinger's Image](img/SchrodingersDeliveryService.gif)
+Our game had three constraints: it must include physics components, a sound-based mechanic, and a paradox.   
 
 ## My Work
 
-I led my team through the 48 hours we had to make this game. In the first few hours, we decided on schrodinger's cat to be our paradox and shaking and throwing boxes to complete our sound and physics constraints. My work consisted of divying tasks and creating the shaking and throwing mechanic. Throughout my short time developing, I went through multiple iterations of the throwing mechanic. Cleaning it up to make a satisfying game mechanic.
+I led my team during the 48 hours we had to make this game. In the first few hours, we decided on Schrodinger's cat to be our paradox, and shaking and throwing boxes to complete our sound and physics constraints. My work consisted of dividing out tasks and creating the shaking and throwing mechanic. Throughout my short time developing, I went through multiple iterations of the throwing mechanic. Cleaning it up to make a satisfying game mechanic.
 
 ## In-Depth: Shaking and Throwing
 
-As the shaking and throwing was our core mechanic, I wanted to make sure it felt the best it possibly could. I started with making the clicking and dragging of the box, allowing the player to move it around the screen. I also attached it to a unity spring joint to handle moving it back to the center, but after many issues with it, I ended up having to scrap it and have it slowly move back to the middle. For the throwing, I handled the choices to either throw the box to the door or throw it away through the boxes velocity. I also added some safety colliders on the top and the left to assist with the throwing in-case of any physics errors. 
+![Schrodinger's Image](img/SchrodingersDeliveryService.gif)
 
-Moving the box quickly around the screen would activate the shaking. If there was a cat, you would hear a sound, if not it was safe to throw away. After the box was tossed either way, I made the next box, chosen at random from a number of boxes our artists made, move out onto the screen with a random chance of it having a cat or not. Once all of that was comeplete, I hooked throwing the box to the door to a function to move the car forward to the next house.
+Since shaking and throwing were our core mechanics, I wanted to make sure they felt as good as possible. I started by implementing the box's click-and-drag, allowing the player to move it around the screen. I also attached it to a unity spring joint to handle moving it back to the center, but after many issues with it, I ended up scrapping it and having it slowly move back to the middle. For the throwing, I handled the choice between throwing the box at the door and throwing it away based on the box's velocity.
+
+Moving the box quickly around the screen would activate the shaking. If there was a cat, you would hear a sound. If not, it was safe to throw away. After the box was tossed either way, I made the next box, chosen at random from a set of boxes our artists made, move to the center of the screen and have a random chance of having a cat. Once all of that was comeplete, I hooked the function for throwing the box to the door to the function to move the car forward to the next house.
 
 ---
 
