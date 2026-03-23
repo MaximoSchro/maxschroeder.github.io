@@ -16,7 +16,7 @@ weight: 1
 
 {{< itch "https://itch.io/embed/4084949?dark=true" >}}
 
-**Platform:** PC
+**Platform:** Windows
 
 **Role:** Lead Designer and Scrum Master
 
