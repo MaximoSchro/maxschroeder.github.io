@@ -63,7 +63,7 @@ The shop had many reworks. At first, I was given a gray box to improve, to which
 **Designers:**
 [Owen Grady](https://www.linkedin.com/in/owenrgrady/) |
 [Max Schroeder](https://www.linkedin.com/in/max-schroeder-972b112b5/) |
-[Alec Turgeon](https://www.linkedin.com/in/alec-turgeon/) |
+[Alec Turgeon](https://alecturgeon.netlify.app/) |
 [Emma Zervanos](https://www.linkedin.com/in/emma-zervanos-85742229a/)
 
 **Programmers:**
