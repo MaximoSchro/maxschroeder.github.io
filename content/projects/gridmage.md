@@ -49,5 +49,4 @@ The random attacks use a difficulty scale to dictate the speed at which new proj
 
 Before this project, I hadn't created my own VFX before. To create my various effects, learned how to use Godot's visual shaders, particle emitters, and animator. Using of mix of these, I was able to make multiple effects to provide more feedback and to make the attacks of the boss feel more alive. Pushing myself to try making VFX was definitely worth it, as I find myself wanting to make more of them in the future, improving along the way!
 
-
 ---
