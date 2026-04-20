@@ -23,7 +23,7 @@ weight: 100
 **Date:** January - May 2026
 
 ## My Work
-
+As this project was meant to teach me Godot, I spent time reading documentation, looking at tutorials, and creating new features through trial and error.
 
 ## In-Depth: 
 
