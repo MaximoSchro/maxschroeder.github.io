@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Cthulhu & Me"
-summary: "Designer working as scrum master while focusing on weapons and enemies"
+summary: "Designer working as scrum master while focusing on weapons and enemies."
 cover:
     image: "img/cthulhulogo.png"
     alt: "Cthulhu & Me Image"

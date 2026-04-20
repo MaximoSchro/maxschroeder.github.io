@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Schrodinger's Delivery Service"
-summary: "Made for Champlain Montreal Game Jam 2024"
+summary: "Made for Champlain Montreal Game Jam 2024."
 cover:
     image: "img/schrodingers.png"
     alt: "Schrodinger Image"

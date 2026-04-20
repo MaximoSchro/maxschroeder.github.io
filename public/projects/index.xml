@@ -22,6 +22,13 @@
       <description>Designer working as scrum master while focusing on weapons and enemies</description>
     </item>
     <item>
+      <title>Grid Mage</title>
+      <link>http://localhost:1313/projects/gridmage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gridmage/</guid>
+      <description>Turn-Base boss fight made in Godot</description>
+    </item>
+    <item>
       <title>Schrodinger&#39;s Delivery Service</title>
       <link>http://localhost:1313/projects/schrodingersdeliveryservice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

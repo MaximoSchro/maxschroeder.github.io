@@ -19,14 +19,21 @@
       <link>http://localhost:1313/projects/cthulhume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/cthulhume/</guid>
-      <description>Designer working as scrum master while focusing on weapons and enemies</description>
+      <description>Designer working as scrum master while focusing on weapons and enemies.</description>
+    </item>
+    <item>
+      <title>Grid Mage</title>
+      <link>http://localhost:1313/projects/gridmage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gridmage/</guid>
+      <description>Turn-Based boss fight made in Godot.</description>
     </item>
     <item>
       <title>Schrodinger&#39;s Delivery Service</title>
       <link>http://localhost:1313/projects/schrodingersdeliveryservice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/schrodingersdeliveryservice/</guid>
-      <description>Made for Champlain Montreal Game Jam 2024</description>
+      <description>Made for Champlain Montreal Game Jam 2024.</description>
     </item>
     <item>
       <title></title>
@@ -44,9 +51,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;im-max&#34;&gt;I&amp;rsquo;m Max!&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m a game designer with a focus in Systems. I love making making new interactions for players to test out and making it feel good to play in the process!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a game designer with a focus on systems. I love making new interactions for players to test out and making it feel good to play in the process!&lt;/p&gt;
 &lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
-&lt;p&gt;While at Champlain College, I&amp;rsquo;ve spent multiple semester making projects with teams of various sizes to make fun and unique games. These include FincrementalOS, a incremental fishing game, Cthulhu and Me, a pseudo-roguelike third-person shooter.&lt;/p&gt;</description>
+&lt;p&gt;While at Champlain College, I&amp;rsquo;ve spent multiple semesters working on projects with teams of various sizes to make fun and unique games. These include FincrementalOS, an incremental fishing game, and Cthulhu and Me, a pseudo-roguelike third-person shooter.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
