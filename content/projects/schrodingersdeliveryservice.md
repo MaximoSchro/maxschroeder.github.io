@@ -7,7 +7,7 @@ cover:
     alt: "Schrodinger Image"
 coverGif: "img/SchrodingersDeliveryService.gif"
 hiddenInHomeList: true
-weight: 10
+weight: 100
 ---
 ![Fincremental Image](img/schrodingers.png)
 ## Overview

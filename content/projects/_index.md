@@ -15,3 +15,4 @@ description: ""
 ![](logobanner_nobgfix.png)
 ![](schrodingers.png)
 ![](SchrodingersDeliveryService.gif)
+![](GridMageLogo.png)
