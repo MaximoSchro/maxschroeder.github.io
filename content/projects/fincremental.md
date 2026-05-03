@@ -14,7 +14,7 @@ weight: 1
 
 **FincrementalOS** is an incremental game where the player shoots fish from a submarine and interacts with a simulated operating system to gain money, upgrade, and play various minigames to become stronger and gather even more fish.
 
-{{< itch "https://itch.io/embed/4084949?dark=true" >}}
+{{< steam id="4408540">}} 
 
 **Platform:** Windows
 
